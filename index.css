@@ -1,0 +1,17 @@
+
+.container {
+    background-color: aqua;
+    width: 100%;
+    border: 20px solid;
+    margin: 10px 30px;
+    
+}
+h1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: white;
+   font-size: 300px;
+   text-transform: uppercase;
+   text-shadow: -20px 20px skyblue, -30px 30px rgb(113, 170, 193),  -40px 40px rgb(82, 133, 155), -50px 50px rgb(107, 137, 150); 
+}
